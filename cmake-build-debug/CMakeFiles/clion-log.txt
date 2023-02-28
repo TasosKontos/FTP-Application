@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/kontos/code/di/syspro/syspro_2 Select CMakeLists.txt

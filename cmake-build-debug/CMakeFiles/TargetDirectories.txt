@@ -1,0 +1,3 @@
+/home/kontos/code/di/syspro/syspro_2/cmake-build-debug/CMakeFiles/syspro__2.dir
+/home/kontos/code/di/syspro/syspro_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kontos/code/di/syspro/syspro_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
